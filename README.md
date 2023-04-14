@@ -1,11 +1,9 @@
 ## 💜 Olá, meu nome é <strong> Marcella!</strong>
 
-> Sou uma estudante de Ciência da Computação e atualmente faço estágio em Dev.
+> Sou uma estudante de Ciência da Computação e atualmente trabalho como Desenvolvedora de Software Júnior voltada ao Front-end.
 
 💬 Meus contatos:
 - email: marappoli@outlook.com
-- twitter: @_marappoli
-- instagram: @marappoli
 - linkedin: https://www.linkedin.com/in/marcella-rappoli-bedinelli-3884031b1/ (ou pesquise por Marcella Rappoli Bedinelli)
 
 ----
